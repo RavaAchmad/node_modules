@@ -2,8 +2,8 @@
   "status": true,
   "data": 
     {
-      "date": "Selasa, 28 Mei 2024"
-      "update": "> /ai (OpenAI dengan session)\n/play (Fix Bug!)\n/tiktok (Fix Bug!)\n/playvid (New Feature buat search youtube!)"
+      "date": "Selasa, 28 Mei 2024",
+      "update": "> OpenAI dengan fitur session\n> Fix Play\n> fix tiktok\n> added New Feature playvid buat search youtube video!\n> update handler"
     },
     {
       "date": "Sabtu, 18 Mei 2024",
