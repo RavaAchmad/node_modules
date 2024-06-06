@@ -2,6 +2,10 @@
   "status": true,
   "data": [
     {
+      "date": "Kamis, 6 Juni 2024", 
+      "update": "> add bing\n> fix tiktok\n> fix instagram\n> fix simple.js\n> change panel🤯"
+    }, 
+    {
       "date": "Selasa, 28 Mei 2024",
       "update": "> fix OpenAI\n> fix Play\n> fix tiktok\n> added New Feature playvid\n> update handler.js\n> upgrade perfomance server!"
     },
